@@ -20,7 +20,8 @@
 
 4. Your Token Address on the Sepolia Network
 
-- Contract Address is 0x094037e3D3454629F83592F1F4C4d391467E1C42
+- Contract Address on Sepolia is 0x094037e3D3454629F83592F1F4C4d391467E1C42
+- Contract Address on Goerli is 0xC5DF3A6196cC5f2825B517b626d2D22dbbc4ACbd
 
 ### ToDo
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
