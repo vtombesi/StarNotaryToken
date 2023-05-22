@@ -1,0 +1,6 @@
+node_modules
+build
+.idea
+.secret
+.infuraKey
+.DS_Store
